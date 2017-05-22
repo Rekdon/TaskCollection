@@ -1,0 +1,1 @@
+Boeng speed:300 mass:400000 passengers:50 pilots:2 wheels:3 stewardess:7 Ange speed:360 mass:4000000 passengers:60 pilots:6 wheels:1 stewardess:3 

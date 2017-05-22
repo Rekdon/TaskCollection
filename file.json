@@ -1,0 +1,42 @@
+[
+  {
+    "mass": 4000,
+    "numberOfPassengers": 20,
+    "numberOfWheels": 4,
+    "MAX_SPEED": 300,
+    "MIN_SPEED": 0,
+    "MIN_NUMBER_OF_PASSENGERS": 1,
+    "MAX_NUMBER_OF_PASSENGERS_IN_PLANE": 50,
+    "MAX_NUMBER_OF_PASSENGERS_IN_BUS": 30,
+    "name": "bus",
+    "speedNow": 1000
+  },
+  {
+    "numberOfDrivers": 5,
+    "routeName": "Greece",
+    "mass": 30,
+    "numberOfPassengers": 4,
+    "numberOfWheels": 3,
+    "MAX_SPEED": 300,
+    "MIN_SPEED": 0,
+    "MIN_NUMBER_OF_PASSENGERS": 1,
+    "MAX_NUMBER_OF_PASSENGERS_IN_PLANE": 50,
+    "MAX_NUMBER_OF_PASSENGERS_IN_BUS": 30,
+    "name": "B56-40",
+    "speedNow": 6000
+  },
+  {
+    "beginningOfRouteName": "Kalinka",
+    "endOfRouteName": "Sadova",
+    "mass": 400,
+    "numberOfPassengers": 50,
+    "numberOfWheels": 8,
+    "MAX_SPEED": 300,
+    "MIN_SPEED": 0,
+    "MIN_NUMBER_OF_PASSENGERS": 1,
+    "MAX_NUMBER_OF_PASSENGERS_IN_PLANE": 50,
+    "MAX_NUMBER_OF_PASSENGERS_IN_BUS": 30,
+    "name": "Bogdan42",
+    "speedNow": 70
+  }
+]
